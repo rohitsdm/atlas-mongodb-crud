@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 app.get("/", (req, res) => {
-  res.send({ text: "Hello from express" });
+  res.send({ text: "Hello Rohit's world" });
 });
 
 if (process.env.NODE_ENV !== "test")

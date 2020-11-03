@@ -1,5 +1,10 @@
 # atlas-mongodb-crud
 
+- mongodb association
+    Model Relationships  - there are to describe one-to-many relationships between connected data.
+    ## Model One-to-Many Relationships 
+    ## Model One-to-One Relationships     
+
 ---
 ## Requirements
 
